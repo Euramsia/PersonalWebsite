@@ -1,7 +1,7 @@
 +++ 
 date = "2020-02-03"
 title = "A summer in the Dolomites"
-slug = "student research competition" 
+slug = "job in the paradise" 
 tags = ["job", "waiter", "mountains", "bautiful"]
 +++
 
