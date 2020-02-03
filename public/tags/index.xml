@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Felix Schweigkofler</title>
+    <link>http://www.felixschweigkofler.com/tags/</link>
+    <description>Recent content in Tags on Felix Schweigkofler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.felixschweigkofler.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iGEM</title>
+      <link>http://www.felixschweigkofler.com/tags/igem/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.felixschweigkofler.com/tags/igem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>http://www.felixschweigkofler.com/tags/research/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.felixschweigkofler.com/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>team</title>
+      <link>http://www.felixschweigkofler.com/tags/team/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.felixschweigkofler.com/tags/team/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
