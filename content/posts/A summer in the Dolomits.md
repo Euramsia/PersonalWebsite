@@ -1,6 +1,6 @@
 +++ 
-date = "2019-11-28"
-title = "iGEM 2019"
+date = "2020-02-03"
+title = "A summer in the Dolomites"
 slug = "student research competition" 
 tags = ["job", "waiter", "mountains", "bautiful"]
 +++
