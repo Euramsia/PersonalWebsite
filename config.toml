@@ -1,4 +1,4 @@
-baseurl = "" # Hostname (and path) to the root.
+baseurl = "felixschweigkofler.com" # Hostname (and path) to the root.
 title = "Felix Schweigkofler" # Site title.
 theme = "coder" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
