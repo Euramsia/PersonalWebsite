@@ -59,10 +59,6 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     name = "LinkedIn"
     weight = 1
     url = "https://www.linkedin.com/in/felix-Schweigkofler/"
-    [[params.social]]
-    name = "About.me"
-    weight = 2
-    url = "https://about.me/felixschweigkofler"
 
 # Menu links
 [[menu.main]]
