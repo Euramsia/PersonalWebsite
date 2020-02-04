@@ -9,7 +9,9 @@ math = "true"
 ![Me](/meinbild.jpg)
 
 
-Student, South Tyrolean, molecular biologist, writer
+This is me.
+
+Student, writer, thinker.
 
 My ambition is to change the world, and change it to the better. To my disappointment I had to find out that changing the world is harder than I imagined in my early dreams.
 
