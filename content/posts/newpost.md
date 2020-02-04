@@ -1,7 +1,5 @@
 +++
 date = "2020-02-02"
-title = "new post"
+title = "posts will follow soon"
 +++
 
-this is a new post that should replace the other ones.
-minor change
