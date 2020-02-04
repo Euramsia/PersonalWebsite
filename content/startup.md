@@ -1,13 +1,13 @@
 +++
 date = "2020-02-04"
-title = "founding"
+title = "starting up"
 math = "true"
 
 +++
 
-I am very interested in founding, co-founding or participating in a startup of any kind. I am of course particularly interested in bio-startups and will use any reasonable opportunity to create a business.
+Founding a startup is to me the most direct and appealing way of initiating change in the world. I am very interested in founding co-founding or participating in a startup of any kind and will use any reasonable opportunity to create a business. Of course, I am particularly interested in bio-startups.
 
-With my {{< ref "/posts/iGEM.md" >}}iGEM-team I came in contact with the concrete idea and the adventure-feeling of a startup, when we planned how to turn our competition research project into a business. We calculated the costs and developed several business models. We reached out to professors and to stakeholders for their opinion.
+With [my iGEM-team]({{< ref "iGEM.md" >}}) I came in contact with the concrete idea and the adventure-feeling of a startup, when we planned how to turn our competition research project into a business. We calculated the costs and developed several business models. We reached out to professors and to stakeholders for their opinion.
 
 After the congress in Boston however, I decided to turn to neuroscience and to leave Graz. Other members still pursue the goal to turn our *beeosensor* into a viable product and I wish them the best luck. I will keep you updated about their progress.
 
