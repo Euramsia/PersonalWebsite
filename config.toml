@@ -60,11 +60,6 @@ pygmentsUseClasses = true # new add
     weight = 1
     url = "https://www.linkedin.com/in/felix-Schweigkofler/"
 
-[[params.social]]
-    # If icon is not set, Text is displayed.
-    name = "founderio"
-    weight = 1
-    url = "https://www.founderio.com/de/unternehmer/341872"
 
 # Menu links
 [[menu.main]]
