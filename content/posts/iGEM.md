@@ -1,7 +1,6 @@
 +++
 date = "2020-02-02"
 title = "iGEM 2019"
-draft = true
 +++
 
 The international genetically engineered machine student research competition 2019.
