@@ -1,7 +1,6 @@
 +++
 date = "2020-02-02"
 title = "iGEM 2019"
-draft = "true"
 +++
 
 The international genetically engineered machine student research competition 2019.
@@ -12,6 +11,9 @@ Science is a fine thing, when you learn about it. First you hear about those coo
 But its all still theory. And after some time, I got tired of the theory. The practical lab training was interesting, but not enough. Still it mostly is about students following protocols without too much thinking and sometimes only later realizing what we actually did there.
 
 I wanted more and so I approached the joint iGEM team from my universities, the Graz University of Technology and the University of Graz, in 2018. I participated in some of the planning and especially the human practice part, which certainly helped me later. But I had to leave the team by the end of the summer semester when only little work was done, as my [summer job]({{< ref "summer18.md" >}}) started early. I do not regret that job, after all it was one of the toughest but best experiences in my life.
+
+
+
 
 I was the leader of the 2019 iGEM team for NAWI Graz.
 
