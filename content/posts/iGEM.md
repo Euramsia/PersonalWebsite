@@ -8,7 +8,7 @@ What is [iGEM](https://igem.org/Main_Page)?
 The ***i**nternational* ***g**enetically* ***e**ngineered* ***m**achine* student research competition 2019.
 I will stick with iGEM, if you don't mind. Dry facts at the end of the page, if the story takes too long.
 
--
+ 
 
 **The beginning**
 
@@ -22,7 +22,7 @@ In 2019 I was one of the first members. I became team leader, when it became mor
 
 However, I enjoyed it, despite the difficulties. I expected them and saw them as an opportunity to improve myself. I promised my team to lead them to a good rating and maybe even more.
 
--
+ 
 
 **My team**
 
@@ -32,7 +32,7 @@ Some of my colleagues were especially eager to make a team video and so after a 
 
 It was also shown in Boston during the congress, together with other teams' videos. You can find [many more of them](https://www.youtube.com/results?search_query=igem+2019+song) on youtube, the best ones are song parodies. Some of them really capture the iGEM feeling. When 3000 people laugh at the exact same moment, you feel the connection: they have gone through the same.
 
--
+ 
 
 **The work**
 
@@ -46,13 +46,15 @@ The institute staff was were helpful and many things would of course not have be
 
 Finishing everything for the deadline sometimes seemed like a sheer impossible task, but in the end we did it, not everything according to our plan, but we did it. And iGEM is all about students learning science and making mistakes, in order to avoid them later in their life. Taking that into consideration we won everything we could win, but then came the presentation in Boston and everything got out of hand ...
 
--
+ 
 
 **The congress**
 
 The 20 minute presentation in front of a small audience and the poster presentation went well, but never would we have imagined that we would win anything besides a gold medal. Sounds improper? The medals are not actually medals but just some kind of a grading system with bronze, silver and gold. Half of the teams "won" gold and so did we. But the awards are the real thing in iGEM. When the winners were presented at the closing ceremony, we already knew we got gold and did not expect much more, as there are names like Harvard and MIT and the like. When the winners and nominees in the different categories were announced, I went through the most unreal 30 minutes of my life. We were first nominated for the best diagnostics project and we cheered ... and then we were announced the winners of the best diagnostics project and we jumped up from our seats and celebrated. We joked about getting nominated for other awards, including best human practices, and we were! We proceeded joking and we were annoucned winners! We were not just cheering anymore, we were shouting our lungs out. Months of hard work getting honored in such a way was an incredible experience. It was almost unreal, I felt invincible for half an hour. And then we were nominated for the best presentation and the best poster. It was incredible. Only later I found out, that we were also nominated for the Grand Prize, that is the actual "gold medal", *the* prize of iGEM, because those are the only nominations not announced at the closing ceremony. Maybe better for my sanity, that could have been too much.
 
--
+![winners](/iGEM.jpg)
+
+ 
 
 **Dry facts**
 
