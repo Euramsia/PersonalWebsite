@@ -5,7 +5,7 @@ math = "true"
 
 +++
 
-Founding a startup is for me the most direct and appealing way of initiating change in the world. I am very interested in founding, co-founding or participating in a startup of any kind. Of course, I am particularly interested in bio-startups.
+Founding is for me the most direct and appealing way of initiating change in the world. I am very interested in founding, co-founding or participating in a startup of any kind. Of course, I am particularly interested in bio-startups.
 
 With [my iGEM-team]({{< ref "iGEM.md" >}}) I came in contact with the concrete idea and the adventure-feeling of a startup, when we planned how to turn our competition research project into a business. We calculated the costs and developed several business models. We reached out to professors and to stakeholders for their opinion.
 
