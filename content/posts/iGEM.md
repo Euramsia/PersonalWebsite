@@ -52,9 +52,9 @@ Finishing everything for the deadline sometimes seemed like a sheer impossible t
 
 The 20 minute presentation in front of a small audience and the poster presentation went well, but never would we have imagined that we would win anything besides a gold medal. Sounds improper? The medals are not actually medals but just some kind of a grading system with bronze, silver and gold. Half of the teams "won" gold and so did we. But the awards are the real thing in iGEM. When the winners were presented at the closing ceremony, we already knew we got gold and did not expect much more, as there are names like Harvard and MIT and the like. When the winners and nominees in the different categories were announced, I went through the most unreal 30 minutes of my life. We were first nominated for the best diagnostics project and we cheered ... and then we were announced the winners of the best diagnostics project and we jumped up from our seats and celebrated. We joked about getting nominated for other awards, including best human practices, and we were! We proceeded joking and we were annoucned winners! We were not just cheering anymore, we were shouting our lungs out. Months of hard work getting honored in such a way was an incredible experience. It was almost unreal, I felt invincible for half an hour. And then we were nominated for the best presentation and the best poster. It was incredible. Only later I found out, that we were also nominated for the Grand Prize, that is the actual "gold medal", *the* prize of iGEM, because those are the only nominations not announced at the closing ceremony. Maybe better for my sanity, that could have been too much.
 
-![winners](/iGEM.jpg)
+![winners](/iGEM.png)
 
- 
+
 
 **Dry facts**
 
