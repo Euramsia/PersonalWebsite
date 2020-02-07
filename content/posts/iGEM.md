@@ -32,6 +32,8 @@ Some of my colleagues were especially eager to make a team video and so after a 
 
 It was also shown in Boston during the congress, together with other teams' videos. You can find [many more of them](https://www.youtube.com/results?search_query=igem+2019+song) on youtube, the best ones are song parodies. Some of them really capture the iGEM feeling. When 3000 people laugh at the exact same moment, you feel the connection: they have gone through the same.
 
+For me personally, leading was probably the most unusual part of the whole project and really a step out of my introvert comfort zone. I cannot write too much about it, as I am still processing and understanding what happend, what I did and what I could have done. This is no short process, as it reaches deep and is intertwined with my personality. 
+
  
 
 **The work**
