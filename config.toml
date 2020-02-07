@@ -74,3 +74,7 @@ pygmentsUseClasses = true # new add
     name = "Startup"
     weight = 3
     url = "startup"
+#[[menu.main]]
+#    name = "Molbio"
+#    weight = 3
+#    url = "molbio"
