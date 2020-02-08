@@ -30,7 +30,9 @@ Psychology and even more so sociology are detached from the scientific basis and
 
 According to this concept, every higher level could be fully explained by any lower level. Wheter this is true or not is disputed. If it is true, physical determinism is true, meaning that every single event can in theory be determined and calculated. The outcome of an election could be known by calculating the properties of every force and subatomic particle.
 
-In chemistry and biology, this determinism is generelly accepted as a working hypothesis. On these two levels this physical determinism is *accurate enough*. Wheter it is true or not probably reai
+In chemistry and biology, this determinism is generelly accepted as a working hypothesis. On these two levels this physical determinism is *accurate enough*. Wheter it is true or not probably 
+
+[[to be finished]]
 
 **Molecular biology**
 
@@ -48,3 +50,5 @@ Life needs *energy*. For one thing simply maintaining order requires constant ca
 
 These four can be seen as the main components, building life. The rest is chemisty.
 For real. Living beings are made up of molecules just like everything else and so only chemistry and physics can explain what exactly happens. 
+
+[[to be finished]]
