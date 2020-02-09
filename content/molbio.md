@@ -31,15 +31,15 @@ In a philosophers magazine I once read about philosopers talking to a biologist 
 
 Life is a state of complex order in a hostile environment, and so life needs a *defined space* withing borders. These are cell walls and cell membranes. Inside, molecules can interact undisturbed in a controlled manner, while the vast outside could not be controlled by a cell.
 
-Life needs *building blocks*, and it needs the percectly right building blocks. They do not simply exist, ready to be used by anybody, but must be created. Reacting to the outside world mostly works by creating new blocks or using the ones built. 
+Life needs *building blocks*, and it needs an incredible variety of them. They do not exist, ready to be used by anybody, but need to be created. As the rest, they are molecules, some very small, some very large. Doing anything for a cell ususally means building specific molecules and using their specific impact on other molecules. This can range from simply forming a wall to more complex things like reading information. 
 
-Life needs *information*, as this creation cannot not happen by chance, but is planned rigurously. This information needs to be stored and read.
+Life needs *information*, as it needs a blueprint for creating molecules that did not exist before.That cannot happen by chance, but is planned rigorously. This information needs to be stored and read.
 
-Life needs *energy*. For one thing simply maintaining order requires constant care, otherwise everything tends to slide into chaos, and for another thing creating building blocks requires energy too.
+Life needs *energy*. Who doesn't? Without energy, nothing can be done. Simply maintaining order already needs constant effort, otherwise things tend to become chaotic.
 
-Life needs something, that performs tasks with this energy. Somebody needs to work, if you want theings to get done, and in the case of life the wokers are called enzymes. Huge specialized molecules which can perform very specific tasks and are constantly produced by the cell.
+Life needs something, that performs tasks with this energy. Even though chemical reacation happen all the time, you need to put in some extra *work* to get the reactions you really want and somebody needs to control this. In the case of life the wokers are called enzymes. Huge specialized molecules which can perform very specific tasks and are constantly produced by the cell.
 
-These five can be seen as the main components, building life.
+These five can be seen as the core elements of life.
 
 **Tenents**
 
@@ -51,8 +51,8 @@ Enzymes do about everything that is relevant in a cell. Without them the cell co
 
 Energy is key, without it nothing would work, no car moves, the internet is dead and so would be our cells. Energy is gained from chemical reactions. In principle, it is the same as burning wood, but instead of quadrillions of reactions, the cells perform only a few, which are enough for her to live. The cell also is able to store a good part of the energy in a more convenient form - like humans use the energy from power plants and store it in a battery to power a cell phone, which works perfectly fine, while the phone would be destroyed by the heat of the power plant. It is all about and clever systems and proper management of resources. All of this is done by enzymes, of course.
 
-The enzymes then use the stored energy to perform their tasks, which are predefined by the information on the DNA, and perform them in the controllable space within the borders the cell. There we have our five elements of life in one sentence. This is the secret.
+The enzymes then use the stored energy to perform their tasks, which are predefined by the information on the DNA, and perform them in the controllable space within the borders the cell. There we have our five elements of life in one sentence.
 
+This is the secret. This is life.
 
-
-[[to be finished]]
+This would be life, if it were not enormously more complex.
