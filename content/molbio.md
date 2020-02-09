@@ -5,34 +5,34 @@ math = "true"
 
 +++
 
-Maybe you have asked yourself this question by now. Maybe you already know it, but would like to hear another opinion. In both cases you will find what you are looking for. I am going to sum up the essence of life in an easy yet comprehensive manner. 
+Maybe you have asked yourself this question by now. Maybe you already know it, but would like to hear another opinion. In both cases you will find what you are looking for in this post. I will try to sum up the essence of molecular biology in an easy yet comprehensive manner. 
 
-The short answer is: "Molecular biology is about explaining life."
+The short answer to the question is: "Molecular biology is about explaining life."
 
-"Life" is often also understood as the human experience from birth to death, but that is not what this post is about. "Life" is ment as the way how *living* works biologically.
-So, I will try to stick to the basics and keep it as clear as possible. I even drew a picture! So enjoy short trip through molecular biology.
+"Life" is often ment as the human experience from birth to death, but that is not what I am going to talk about. "Life" is ment as the way how *living* works biologically.
+So, I will try to stick to the basics and keep it as clear as possible. I even drew a picture! So enjoy the short trip through molecular biology.
 
-**SHORT EXCURSION IN THE HISTORY OF BIOLOGY**
+**EXCURSION TROUGH THE HISTORY OF BIOLOGY**
 
-Living things surround humans ever since and were thus the object of curiousity. Biology has some pretty obvious domains, like plants and animals and how they behave and what grows where and what doesn't and which herb cures which diseases. Thousands of years of observations, secretes from druid mouth to druid ear and farmer's wisdom. But all this old knowledge hit against a wall, when it came to _understanding_ the phenomena that were observed. Even worse where the attempts to describe it philosophically or religously. Many scholars from ancient times tried their best to explain why things happen by mixing the living things - biology and psychology - with the dead things - chemistry and phsyics - and glueing them together with philosophy and mathematics.
+Living things surround humans ever since and were thus the object of curiousity. Biology has some pretty obvious domains, like plants and animals and how they behave and what grows where and what doesn't and which herb cures which diseases. Thousands of years of observations, secretes from druid mouth to druid ear and farmer's wisdom. But all this old knowledge hit against a wall, when it came to _understanding_ the phenomena that were observed. Even worse where the attempts to describe life philosophically or religously. Many scholars from ancient times tried their best to explain why things happen by mixing "living things" - nowadays biology and psychology - with "dead things" - nowadays chemistry and phsyics - and glueing them together with philosophy and mathematics and a good portion of creativity.
 
-Only with the rise of modern science, after a long time the veil over the secret of life was lifted, bit by bit, finding by finding, in many scholarly disputes. However, the veil was found to be bigger and bigger and even bigger than it was ever imagined and so we are still looking for answers to more and more questions.
+Only with the rise of modern science, after a long time the veil over the secret of life was lifted, bit by bit, finding by finding, in many scholarly disputes. However, the veil was found to be bigger and bigger and even bigger than it was ever imagined and so we are still looking for answers to more and more questions. Answers that must be found on a very fundamental level, so:
 
- So, lets go molecular!
+Lets go molecular!
 
 **MOLECULAR BIOLOGY**
 
-Biology consists of many different fields and approaches, but when I talk about molecular biology here I mean the basis of life beyond what is visible with the bare eye. I will spare you further explanations on the concrete definition of different subsections and want to focus on the chemical foundations of biology, which was the content of my study. So, when I talk about molecular biology here, I mean "biology on a molecular level".
+Biology consists of many different fields and approaches, but when I talk about molecular biology here I mean the basis of life beyond what is visible with the bare eye. I will spare you further explanations on the concrete definition of different subsections and want to focus on the foundations of biology, which was the content of my study. So, when I talk about molecular biology here, I mean "biology on a molecular level".
 
-Biology is just complex chemistry.
+Because, biology - or life - is just complex chemistry.
 
-For real. Living beings are made up of molecules just like everything else and so only chemistry and physics can explain what happens and chemistry and physics alone are enough.
+For real. Living beings are made up of molecules and nothing more, just like everything else and so only chemistry and physics can explain what happens and chemistry and physics alone are enough.
 
-In a philosophers magazine I once read about philosopers talking to a biologist about life and being stunned by the fact, that there is nothing special to life. And it is true, it is just extremely complicated chemistry, as far as science can tell. No hidden force, no *vis vitae* as the old philosophers called the secret of life. This is somewhat disillusioning, but on the other hand it brings us closer to life that we have ever been.
+In a philosophical magazine I once read about philosopers talking to a scientist about biology and being surprised by the fact, that there is nothing special to life. And it is true, it is just extremely complicated chemistry, as far as science can tell. No hidden force, no *vis vitae* as the old philosophers called the secret of life. This is somewhat disillusioning, but on the other hand it brings us closer to life itself than we have ever been.
 
 **ABSTRACT OF A SCIENCE**
 
-The ancient greeks already knew that life must be composed of subparts and tried to find the elements of life. They decided to stick with four, earth, fire, water and air. They were wrong, but the idea is right. Life consists of "elements" and for a better understanding it can be broken down to five basic concepts. They make up everything that we call living and basically everything we find in an organism or a cell can be assigned to one of these five "elements".
+The ancient greeks already knew that life must be composed of subparts and tried to find them, calling them elements - basic substances. They decided to stick with four: earth, fire, water and air. With this they were wrong, but the idea is right. Life consists of "elements" and for a better understanding it can be broken down to five basic concepts. They make up everything that we call living. Basically everything we find in an organism or a cell can be assigned to one (or more) of these five concepts.
 
 ![Life](/life2.png)
 
