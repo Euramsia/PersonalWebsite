@@ -6,7 +6,9 @@ math = "true"
 +++
 
 Maybe you have asked yourself this question by now. Maybe you already know it, but would like to hear another opinion. In both cases you will find what you are looking for. I am going to sum up the essence of life in an easy yet comprehensive manner. 
-The short answer is: Molecular biology is about explaining life.
+
+The short answer is: "Molecular biology is about explaining life."
+
 "Life" is often also understood as the human expereince from birth to death, but that is not what this post is about. "Life" is ment as the way how *living* works biologically.
 So, I will try to stick to the basics and keep it as clear as possible. I even drew a picture! So enjoy short trip through molecular biology.
 
@@ -48,9 +50,11 @@ These five can be seen as the core elements of life.
 
 **TENENTS OF LIFE**
 
+Now, lets explain this a bit more in detail.
+
 Information is stored in the DNA and read by enzymes in order to duplicate the DNA or to produce proteins with the information they get. This is a step-by-step process: each bit of information is a special chemical structure that is "read" and which causes the enzyme to do a certain thing. This is the reading process. At the end we either have a second string of DNA or a protein.
 
-Proteins are huge molecules, consisting of hundreds or thousands of atoms. Water, in comparison, consists of three atoms. Proteins have two main functions. They either build a structure, a tunnel for water to flow in and out, for example. Or they can *do* things like "reading" the information of the DNA, then they are called enzymes. They are like micro-robots with a very specific task.
+Proteins are huge molecules, consisting of thousands or tenthousands of atoms. Water, in comparison, consists of three atoms. Proteins have two main functions. They either build a structure, a tunnel for water to flow in and out, for example. Or they can *do* things like "reading" the information of the DNA, then they are called enzymes. Enzymes are like micro-robots with a very specific task, they are the workers who control most of the chemical reactions happening in a cell.
 
 Enzymes do about everything that is relevant in a cell. Without them the cell could not use food, reproduce, fight off attacking cells or react to a sudden increase of temperature. They are responsible for building everything, including other proteins with the inforation of the DNA, but also the cell wall for example. Like robots they take a certain molecule and attach it to the cell wall to make it stronger. Where does the molecule come from? A bunch of other enzymes have made it. And how? By using building blocks, provided by other classes of enzymes, and energy.
 
