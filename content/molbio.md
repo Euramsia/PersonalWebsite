@@ -1,11 +1,11 @@
 +++
 date = "2020-02-03"
-title = "About me"
+title = "What is molecular biology?"
 math = "true"
 
 +++
 
-What is molecular biology - or molbio as it is called - all about?
+I am going to explain the basis of biology in an easy yet comprehensive manner.
 
 **Short excursion in the history of biology.**
 
@@ -13,34 +13,23 @@ Living things surround humans ever since and were thus the object of curiousity.
 
 Only with the rise of modern science, after a long while the veil over the secret of life was lifted, bit by bit, finding by finding, in many scholarly disputes and the veil was found to be bigger and bigger and even bigger than it was ever imagined and so we are still looking for answers to more and more questions.
 
-I would not claim to explain the human mind and consciousness, as this is neither my expertise (so far) nor is it understood well enough. This is different however for biology and over the last centuries a deeper understanding of how *living* works has been developed.
-
-**Sciences as I seem them**
-
-Sciences can be seen as layers of a will to understand it all:
-| Heading | Another heading |
-| :----:  | :-------------: |
-|  (Sociology)   |      ()       |
-|  (Pychology)   |      (trying to understand the human mind, which shows extemely complex patterns on an individual level)       |
-|  Biology   |      focusing on the chemistry of living beings and trying to see the whole picture       |
-|  Chemistry   |      using generalized concepts of physics to explain how the world around us changes       |
-|  Physics   |      at the basis, building the foundational function of energy and matter       |
-
-Psychology and even more so sociology are detached from the scientific basis and especially sociology leans quite heavily towards philosophy.
-
-According to this concept, every higher level could be fully explained by any lower level. Wheter this is true or not is disputed. If it is true, physical determinism is true, meaning that every single event can in theory be determined and calculated. The outcome of an election could be known by calculating the properties of every force and subatomic particle.
-
-In chemistry and biology, this determinism is generelly accepted as a working hypothesis. On these two levels this physical determinism is *accurate enough*. Wheter it is true or not probably 
-
-[[to be finished]]
+I would not claim to explain the human mind and consciousness, as this is neither my expertise (so far) nor is it understood well enough. This is different however for biology and over the last centuries a deeper understanding of how *living* works has been developed. So, lets go molecular!
 
 **Molecular biology**
 
-Biology consists of many different fields and approaches, but when I talk about molecular biology here I mean the basis of life beyond what is visible with the bare eye. I will spare you further explanations on the different subsections and want to focus on the chemical foundations of biology, which was the content of my study, even tough it is called "molecular biology".
+Biology consists of many different fields and approaches, but when I talk about molecular biology here I mean the basis of life beyond what is visible with the bare eye. I will spare you further explanations on the concrete definition of different subsections and want to focus on the chemical foundations of biology, which was the content of my study. So, when I talk about molecular biology here, I mean "biology on a molecular level".
+
+Biology is just complex chemistry.
+
+For real. Living beings are made up of molecules just like everything else and so only chemistry and physics can explain what happens and chemistry and physics alone are enough.
+
+In a philosophers magazine I once read about philosopers talking to a biologist about life and being stunned by the fact, that there is nothing special to life. And it is true, it is just extremely complicated chemistry, as far as science can tell. No hidden force, no *vis vitae* as the old philosophers called the secret of life. This is somewhat disillusioning, but on the other hand it brings us closer to life that we have ever been.
 
 **Abstract of a science**
 
-Life is a state of complex order in a hostile environment, and so life needs a *defined space* withing borders. These are cell walls and cell membranes. Inside molecules can interact undisturbed in a controlled manner.
+![Life](/life2.png)
+
+Life is a state of complex order in a hostile environment, and so life needs a *defined space* withing borders. These are cell walls and cell membranes. Inside, molecules can interact undisturbed in a controlled manner, while the vast outside could not be controlled by a cell.
 
 Life needs *building blocks*, and it needs the percectly right building blocks. They do not simply exist, ready to be used by anybody, but must be created. Reacting to the outside world mostly works by creating new blocks or using the ones built. 
 
@@ -48,7 +37,22 @@ Life needs *information*, as this creation cannot not happen by chance, but is p
 
 Life needs *energy*. For one thing simply maintaining order requires constant care, otherwise everything tends to slide into chaos, and for another thing creating building blocks requires energy too.
 
-These four can be seen as the main components, building life. The rest is chemisty.
-For real. Living beings are made up of molecules just like everything else and so only chemistry and physics can explain what exactly happens. 
+Life needs something, that performs tasks with this energy. Somebody needs to work, if you want theings to get done, and in the case of life the wokers are called enzymes. Huge specialized molecules which can perform very specific tasks and are constantly produced by the cell.
+
+These five can be seen as the main components, building life.
+
+**Tenents**
+
+Information is stored in the DNA and read by enzymes in order to duplicate the DNA or to produce proteins with the information they get. This is a step-by-step process: each bit of information is a special chemical structure that is "read" and which causes the enzyme to do a certain thing. This is the reading process. At the end we either have a second string of DNA or a protein.
+
+Proteins are huge molecules, consisting of hundreds or thousands of atoms. Water, in comparison, consists of three atoms. Proteins have two main functions. They either build a structure, a tunnel for water to flow in and out, for example. Or they can *do* things like "reading" the information of the DNA, then they are called enzymes. They are like micro-robots with a very specific task.
+
+Enzymes do about everything that is relevant in a cell. Without them the cell could not use food, reproduce, fight off attacking cells or react to a sudden increase of temperature. They are responsible for building everything, including other proteins with the inforation of the DNA, but also the cell wall for example. Like robots they take a certain molecule and attach it to the cell wall to make it stronger. Where does the molecule come from? A bunch of other enzymes have made it. And how? By using building blocks, provided by other classes of enzymes, and energy.
+
+Energy is key, without it nothing would work, no car moves, the internet is dead and so would be our cells. Energy is gained from chemical reactions. In principle, it is the same as burning wood, but instead of quadrillions of reactions, the cells perform only a few, which are enough for her to live. The cell also is able to store a good part of the energy in a more convenient form - like humans use the energy from power plants and store it in a battery to power a cell phone, which works perfectly fine, while the phone would be destroyed by the heat of the power plant. It is all about and clever systems and proper management of resources. All of this is done by enzymes, of course.
+
+The enzymes then use the stored energy to perform their tasks, which are predefined by the information on the DNA, and perform them in the controllable space within the borders the cell. There we have our five elements of life in one sentence. This is the secret.
+
+
 
 [[to be finished]]
