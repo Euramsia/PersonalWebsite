@@ -37,7 +37,7 @@ Life needs *information*, as it needs a blueprint for creating molecules that di
 
 Life needs *energy*. Who doesn't? Without energy, nothing can be done. Simply maintaining order already needs constant effort, otherwise things tend to become chaotic.
 
-Life needs something, that performs tasks with this energy. Even though chemical reacation happen all the time, you need to put in some extra *work* to get the reactions you really want and somebody needs to control this. In the case of life the wokers are called enzymes. Huge specialized molecules which can perform very specific tasks and are constantly produced by the cell.
+Life needs something, that performs tasks with this energy. Even though chemical reacations happen all the time, you need to put in some extra *work* to get the reactions you really want and somebody needs to control this. In the case of life the wokers are called enzymes. Huge specialized molecules which can perform very specific tasks and are constantly produced by the cell.
 
 These five can be seen as the core elements of life.
 
