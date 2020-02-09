@@ -9,8 +9,7 @@ Maybe you have asked yourself this question by now. Maybe you already know it, b
 
 The short answer to the question is: "Molecular biology is about explaining life."
 
-"Life" is often ment as the human experience from birth to death, but that is not what I am going to talk about. "Life" is ment as the way how *living* works biologically.
-So, I will try to stick to the basics and keep it as clear as possible. I even drew a picture! So enjoy the short trip through molecular biology.
+"Life" is often ment as the human experience from birth to death, but that is not what I am going to talk about. With "Life" I mean the way how *living* works biologically. That is a big chunk, but I promise I will stick to the basics and keep it as clear as possible. I even drew a picture to make it more memorable! So enjoy the short trip through molecular biology.
 
 **EXCURSION TROUGH THE HISTORY OF BIOLOGY**
 
