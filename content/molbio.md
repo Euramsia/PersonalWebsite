@@ -59,8 +59,8 @@ Enzymes do about everything that is relevant in a cell. Without them the cell co
 
 Energy is key, without it nothing would work, no car moves, the internet is dead and so would be our cells. Energy can be gained from chemical reactions. In principle, it is the same as burning wood, but instead of the quadrillions of reactions which make up a fire, the cells perform only a few, which are enough for her to live. The cell also is able to store a good part of the energy in a more convenient form - like humans use the energy from power plants and store it in a battery to power a cell phone, which works perfectly fine, while the phone would be destroyed by the heat of the power plant. It is all about clever systems and proper management of resources, for humans and even more so for life itself. All of this is done by enzymes, of course.
 
-The enzymes then use the stored energy to perform their tasks, which are predefined by the information on the DNA, and perform them in the controllable space within the borders the cell. There we have our five elements of life in one sentence.
+The *enzymes* then use the stored *energy* to perform their *tasks*, which are predefined by the *information* on the DNA, and perform them in the controllable *space* within the borders of the cell. There we have our five elements of life in one sentence!
 
-This is the secret. This is life.
+This is the secret. **This is life.**
 
 This would be life, if it were not enormously more complex. And that means a century full of new discoveries lies ahead of us.
