@@ -16,8 +16,8 @@ pygmentsUseClasses = true # new add
 [params] # theme parameters
     author = "Felix Schweigkofler" # Author's name.
     info = "MOLECULAR BIOLOGIST" # Author's job title or info.
-    description = "Felix Schweigkoflers' personal website" # Site description.
-    keywords = "blog,researcher,personal" # Site keywords.
+    description = "Felix Schweigkofler's personal website" # Site description.
+    keywords = "blog, researcher, personal" # Site keywords.
     avatarurl = "images/dna.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = "" # Add footer content

@@ -9,7 +9,7 @@ Maybe you have asked yourself this question by now. Maybe you already know it, b
 
 The short answer is: "Molecular biology is about explaining life."
 
-"Life" is often also understood as the human expereince from birth to death, but that is not what this post is about. "Life" is ment as the way how *living* works biologically.
+"Life" is often also understood as the human experience from birth to death, but that is not what this post is about. "Life" is ment as the way how *living* works biologically.
 So, I will try to stick to the basics and keep it as clear as possible. I even drew a picture! So enjoy short trip through molecular biology.
 
 **SHORT EXCURSION IN THE HISTORY OF BIOLOGY**
@@ -48,7 +48,7 @@ Life needs something, that performs tasks with this energy. Even though chemical
 
 These five can be seen as the core elements of life.
 
-**TENENTS OF LIFE**
+**TENETS OF LIFE**
 
 Now, lets explain this a bit more in detail.
 
@@ -58,7 +58,7 @@ Proteins are huge molecules, consisting of thousands or tenthousands of atoms. W
 
 Enzymes do about everything that is relevant in a cell. Without them the cell could not use food, reproduce, fight off attacking cells or react to a sudden increase of temperature. They are responsible for building everything, including other proteins with the inforation of the DNA, but also the cell wall for example. Like robots they take a certain molecule and attach it to the cell wall to make it stronger. Where does the molecule come from? A bunch of other enzymes have made it. And how? By using building blocks, provided by other classes of enzymes, and energy.
 
-Energy is key, without it nothing would work, no car moves, the internet is dead and so would be our cells. Energy is gained from chemical reactions. In principle, it is the same as burning wood, but instead of quadrillions of reactions, the cells perform only a few, which are enough for her to live. The cell also is able to store a good part of the energy in a more convenient form - like humans use the energy from power plants and store it in a battery to power a cell phone, which works perfectly fine, while the phone would be destroyed by the heat of the power plant. It is all about and clever systems and proper management of resources. All of this is done by enzymes, of course.
+Energy is key, without it nothing would work, no car moves, the internet is dead and so would be our cells. Energy is gained from chemical reactions. In principle, it is the same as burning wood, but instead of quadrillions of reactions, the cells perform only a few, which are enough for her to live. The cell also is able to store a good part of the energy in a more convenient form - like humans use the energy from power plants and store it in a battery to power a cell phone, which works perfectly fine, while the phone would be destroyed by the heat of the power plant. It is all about clever systems and proper management of resources. All of this is done by enzymes, of course.
 
 The enzymes then use the stored energy to perform their tasks, which are predefined by the information on the DNA, and perform them in the controllable space within the borders the cell. There we have our five elements of life in one sentence.
 
