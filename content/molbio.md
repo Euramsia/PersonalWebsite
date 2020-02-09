@@ -50,7 +50,7 @@ These five can be seen as the core elements of life.
 
 **TENETS OF LIFE**
 
-Now, lets explain this a bit more in detail.
+Now, lets explain this in more detail.
 
 Information is stored in the DNA and read by enzymes in order to duplicate the DNA or to produce proteins with the information they get. This is a step-by-step process: each bit of information is a special chemical structure that is "read" and which causes the enzyme to do a certain thing. This is the reading process. At the end we either have a second string of DNA or a protein.
 
@@ -58,7 +58,7 @@ Proteins are huge molecules, consisting of thousands or tenthousands of atoms. W
 
 Enzymes do about everything that is relevant in a cell. Without them the cell could not use food, reproduce, fight off attacking cells or react to a sudden increase of temperature. They are responsible for building everything, including other proteins with the inforation of the DNA, but also the cell wall for example. Like robots they take a certain molecule and attach it to the cell wall to make it stronger. Where does the molecule come from? A bunch of other enzymes have made it. And how? By using building blocks, provided by other classes of enzymes, and energy.
 
-Energy is key, without it nothing would work, no car moves, the internet is dead and so would be our cells. Energy is gained from chemical reactions. In principle, it is the same as burning wood, but instead of quadrillions of reactions, the cells perform only a few, which are enough for her to live. The cell also is able to store a good part of the energy in a more convenient form - like humans use the energy from power plants and store it in a battery to power a cell phone, which works perfectly fine, while the phone would be destroyed by the heat of the power plant. It is all about clever systems and proper management of resources. All of this is done by enzymes, of course.
+Energy is key, without it nothing would work, no car moves, the internet is dead and so would be our cells. Energy can be gained from chemical reactions. In principle, it is the same as burning wood, but instead of the quadrillions of reactions which make up a fire, the cells perform only a few, which are enough for her to live. The cell also is able to store a good part of the energy in a more convenient form - like humans use the energy from power plants and store it in a battery to power a cell phone, which works perfectly fine, while the phone would be destroyed by the heat of the power plant. It is all about clever systems and proper management of resources, for humans and even more so for life itself. All of this is done by enzymes, of course.
 
 The enzymes then use the stored energy to perform their tasks, which are predefined by the information on the DNA, and perform them in the controllable space within the borders the cell. There we have our five elements of life in one sentence.
 
