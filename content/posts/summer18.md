@@ -12,7 +12,7 @@ The restaurant was located at 2300 meters above sealevel at the foot of the *Pla
 {{< figure src="/plattkofel.jpg" link="/Plattkofelhuettelocation.jpg" >}}
 I took this picture on one of my many evening trips. Do you find the refuge? Click on the image to see where it is.
 
-[[to be expaned]]
+[[to be expanded]]
 
 An the sun sets over the summer '18, but always will I remember it as the wake-up call of my life. 
 
