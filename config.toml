@@ -76,5 +76,5 @@ pygmentsUseClasses = true # new add
     url = "startup"
 [[menu.main]]
     name = "Molbio"
-    weight = 3
+    weight = 4
     url = "molbio"
