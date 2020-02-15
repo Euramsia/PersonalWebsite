@@ -7,7 +7,7 @@ math = "true"
 
 Maybe you have asked yourself this question by now. Maybe you already know it, but would like to hear another opinion. In both cases you will find what you are looking for in this post. I will try to sum up the essence of molecular biology in an easy yet comprehensive manner. 
 
-The short answer to the question is: **"Molecular biology is about explaining life."**
+The short answer to the question is: **"Molecular biology is about explaining life"**
 
 "Life" is often meant as the human experience from birth to death, but that is not what I am going to talk about. With "life" I mean the way how *living* works biologically. That is a big chunk, but I promise I will stick to the basics and keep it as clear as possible. I even drew a picture to make it more memorable! So enjoy the short trip through molecular biology.
 
