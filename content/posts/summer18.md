@@ -5,7 +5,7 @@ title = "A summer in the Dolomites"
 
 [[yet to be edited and expanded]]
 
-Everybody has a wake-up call in his life. These can be very different things. For some it is people they meet, for some it is a new city, sometimes its a near-death experience. For me it was working for a summer in the Dolomites,.
+Everybody has a wake-up call in his life. These can be very different things. For some it is people they meet, for some it is livinh in a new city, sometimes its sd extreme as a near-death experience. For me it was working for a summer in the Dolomites.
 
 I had worked before, at home, at the farm of my parents, as an internship at my school, but never was it really focused. This changed when i decided against [iGEM 2018]({{< ref "iGEM.md" >}}) and for working as a waiter at the [Plattkofelhütte](https://de.wikipedia.org/wiki/Plattkofelhütte), also due to financial reasons. I expected it to be tough, but I was quite sure that I could do it, to be honest, I had little doubts that I could manage whatever was coming. Maybe I am just so sure about this because I have seen too little of the world yet.
 

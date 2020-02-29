@@ -3,12 +3,12 @@ date = "2020-02-02"
 title = "iGEM 2019"
 +++
 
-I want to tell you the story of my experience as iGEM team leader.
+I want to tell you the story of my experience team leader of [iGEM NAWI Graz 2019](http://www.igem-graz.at/2019/).
 What is [iGEM](https://igem.org/Main_Page)?
 The ***i**nternational* ***g**enetically* ***e**ngineered* ***m**achine* student research competition 2019.
-I will stick with iGEM, if you don't mind. Dry facts at the end of the page, if the story takes too long.
+I will stick with iGEM, if you don't mind.
 
- 
+Yo can find the dry facts at the end of the page, if the story takes too long.
 
 **The beginning**
 
@@ -16,13 +16,11 @@ Science is a fine thing, when you learn about it. First you hear about those coo
 
 But it is all still theory. And after some time, I got tired of the theory. The practical lab training was interesting, but not enough. Still it mostly is about students following protocols without too much thinking and sometimes only later realizing what we actually did there.
 
-I wanted more and so I approached the joint iGEM team from my universities, the Graz University of Technology and the University of Graz, in 2018. I participated in some of the planning and especially the human practice part, which certainly helped me later. But I had to leave the team by the end of the summer semester when only little work was done, as my [summer job]({{< ref "summer18.md" >}}) started early. I do not regret that job, after all it was one of the toughest but best experiences in my life.
+I wanted more and so I approached the joint iGEM team from my universities, the Graz University of Technology and the University of Graz, in 2018. I participated in some of the planning and especially the human practice part, which certainly helped me later. But I had to leave the team by the end of the summer semester when only little work was done, as my summer job started early. I do not regret that job, after all it was one of the toughest but best experiences in my life.
 
 In 2019 I was one of the first members. I became team leader, when it became more and more obviuos that the current team leader had to much to do. This was a very new situation for me, as I have never before been the leader of any team and I took it very seriously. Maybe even too seriously.
 
 However, I enjoyed it, despite the difficulties. I expected them and saw them as an opportunity to improve myself. I promised my team to lead them to a good rating and maybe even more.
-
- 
 
 **My team**
 
@@ -32,23 +30,21 @@ Some of my colleagues were especially eager to make a team video and so after a 
 
 It was also shown in Boston during the congress, together with other teams' videos. You can find [many more of them](https://www.youtube.com/results?search_query=igem+2019+song) on youtube, the best ones are song parodies. Some of them really capture the iGEM feeling. When 3000 people laugh at the exact same moment, you feel the connection: they have gone through the same.
 
-For me personally, leading was probably the most unusual part of the whole project and really a step out of my introvert comfort zone. I cannot write too much about it, as I am still processing and understanding what happend, what I did and what I could have done. This is no short process, as it reaches deep and is intertwined with my personality. 
-
- 
+For me personally, leading was probably the most unusual part of the whole project and really a step out of my comfort zone. I cannot write about my final conclusions, as I am still processing and understanding what happend, what I did and what I could have done. This is no short process and reaches deep into ones personality, if one wants to learn and grow.
 
 **The work**
 
-When I announced that I would be ready to undertake the task of the team leader, however, we struggled with financial difficulties, the shipment of important samples was delayed and we were understaffed in the microbiological lab. It was a tough summer.
+When I announced that I would be ready to undertake the task of the team leader, we struggled with financial difficulties, the shipment of important samples was delayed and we were understaffed in the microbiological lab. It was a tough summer. However, I was able to manage the project, even though it required far more effort than we expected.
 
-With more energy that I thought I managed the project and planned one of the key parts of our project, the human practices. We had a steady contact with the beekeeping association to develop our idea. Beside that I worked in the lab, what I could use for my Bachelor thesis later and held weekly meetings, in an attempt to hold the team together. As we were interdisciplinary and worked in different institutes with many members doing other things beside iGEM, we were in danger of loosing our focus. Furthermore, iGEM specified several achivements, which put us under even more pressure.
+Besides that, I planned and executed one of the key parts of our project, the human practices. We had a steady contact with the beekeeping association to develop our idea. Additionally, I worked in the lab and held weekly meetings, in an attempt to hold the rather loose team together. As we were interdisciplinary and worked in different institutes with many members doing other things beside iGEM, we were in danger of loosing our focus. Furthermore, iGEM requires several achivements, which put us under even more pressure.
 
-In the course of the summer, our naive enthusiasm wore off a bit and we became more humble. We reduced our goals so that they would meet our capabilities and in the end we did it. We got our last and long-awaited results two days before the "wiki freeze", the deadline for documenting our achivements online. Talking to the people at the congress in Boston we learned that many shared a similar story, some even crazier than ours.
-
-The institute staff was very helpful and many things would of course not have been possible without them. I want to use this opportunity to thank you for you time and your valuable advice. Thank you Marina and Julia, thank you Elfriede, thank you Co and Eva, thank you Rosmarie and Tinkara, and thank you Prof. Macheroux. It was a formative summer where I learned a lot and you were part of it.
+In the course of the summer, our naive enthusiasm wore off a bit and we became more humble. We reduced our goals so that they met our capabilities, but did not let loose and in the end we did it. We completed the project just in time. We got our last and long-awaited results two days before the "wiki freeze", the deadline for documenting our achivements online. Talking to people at the congress in Boston a week later we learned that many shared a similar story, some even crazier than ours.
 
 Finishing everything for the deadline sometimes seemed like a sheer impossible task, but in the end we did it, not everything according to our plan, but we did it. And iGEM is all about students learning science and making mistakes, in order to avoid them later in their life. Taking that into consideration we won everything we could win, but then came the presentation in Boston and everything got out of hand ...
 
- 
+But before I continue, let me first thank the people who supported us: Hannes Beims and Wolfgang Schühly, who were the main "intellectual contributors" and provided us with bacteria and phages - Peter Macheroux and Eda Mehmeti, who gave us access to two labs and access to the equipment necessary for our project - Marina Toplak and Julia Messenlehner and the rest of the academic staff, who supported us troughout the project. Without you this _Beeosensor_ have been possible.
+
+Now to the climax of the project.
 
 **The congress**
 
