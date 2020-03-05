@@ -9,9 +9,10 @@ math = "true"
 | 2011-2016 | High school with focus on agriculture (Fachoberschule für Landwirtschaft Auer (South Tyrol))|
 | 2016 | *Italian Matura in German, 91/100* |
 | 2016-2020 | Bachelor in Molecular Biology at Graz University of Technology |
-| 2020 | *IELTS certificate, 8.0 - very goog user* |
-| 2020 | *Bachelor Diploma, ECTS Grade A* |
-| 2020 | Master in Biotechnology at Graz University of Technology |
+| 2020 | 
+- *IELTS certificate, 8.0 - very goog user* 
+- *Bachelor Diploma, ECTS Grade A* 
+- Master in Biotechnology at Graz University of Technology |
 |  | **- EXPERIENCES -** |
 | 2014 | Internship at the excercice farm of my high school, summerjob |
 | 2015 | Two-week internship at the Free University Bozen |
