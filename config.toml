@@ -75,7 +75,7 @@ pygmentsUseClasses = true # new add
 [[menu.main]]
     name = "CV"
     weight = 2
-    url = "CV"
+    url = "cv"
 [[menu.main]]
     name = "Blog"
     weight = 3
