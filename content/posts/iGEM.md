@@ -10,7 +10,7 @@ I will stick with iGEM, if you don't mind.
 
 **In essentia**
 
-- I was leader of the team *iGEM NAWI Graz 2019*.
+- I was member and leader of the team *iGEM NAWI Graz 2019*.
 - We developed a method for the early detection of American foulbrood, a bee disease.
 - We won the awards for best diagnostics project and best human practices and were nominated for finalists, best poster and best presentation among about 80 overgraduate teams we were competing with.
 - We learned *a lot*
