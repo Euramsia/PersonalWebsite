@@ -43,13 +43,13 @@ But over the course of this lovely summer the clouds got bigger and bigger. It w
 
 That was necessary. Delay in delivery, lack of experience in the lab, inefficient routines and difficult experiments led to hair-pulling more than once. A insufficient desinfection method led to contaminations of our bacterial cultures for weeks, the phages (bacteria-viruses) would not replicate and when they did, we could not isolate them with the proposed method. Gene-cloning did not work for reasons not even the reaearchers in our institute understood, necessary criteria for the competition almost were not met, the financing was lacking behind the expectations and some members pulled back.
 
-![mood](/mood.png)
-
 It felt like fucking up. It really did.
 
 However, not everything was dire. Slowly, our project progressed. We had a steady contact with the beekeeping association to develop our idea and still had a pretty good roadmap, but the time was pressing. We completed the project just in time. We got our last and long-awaited results two days before the “wiki freeze”, the deadline for documenting our achivements online. Talking to people at the congress in Boston a week later we learned that many shared a similar story, some even crazier than ours.
 
 Finishing everything for the deadline sometimes seemed like a sheer impossible task, but in the end we did it, not everything according to our plan, but we did it. And iGEM is all about students learning science and making mistakes, in order to avoid them later in their life. If that was the goal, we told ourselves that we had already won everything we could win, but then came the fulminant climax of the project.
+
+![mood](/mood.png)
 
 ### The congress
 
