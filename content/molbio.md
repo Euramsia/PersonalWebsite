@@ -11,7 +11,7 @@ The short answer to the question is: **"Molecular biology is about explaining li
 
 "Life" is often meant as the human experience from birth to death, but that is not what I am going to talk about. With "life" I mean the way how *living* works biologically. That is a big chunk, but I promise I will stick to the basics and keep it as clear as possible. I even drew a picture to make it more memorable! So enjoy the short trip through molecular biology.
 
-**EXCURSION TROUGH THE HISTORY OF BIOLOGY**
+## EXCURSION TROUGH THE HISTORY OF BIOLOGY
 
 Living things surround humans ever since and were thus the object of curiosity. Biology has some pretty obvious domains, like plants and animals and how they behave and what grows where and what doesn't and which herb cures which diseases. Thousands of years of observations, secretes from druid mouth to druid ear and farmer's wisdom. But all this old knowledge hit against a wall, when it came to _understanding_ the phenomena that were observed. Even worse where the attempts to describe life philosophically or religiously. Many scholars from ancient times tried their best to explain why things happen by mixing "living things" - nowadays biology and psychology - with "dead things" - nowadays chemistry and physics - and gluing them together with philosophy and mathematics and a good portion of creativity.
 
@@ -19,7 +19,7 @@ Only with the rise of modern science, the veil over the secret of life was lifte
 
 Let's go molecular!
 
-**MOLECULAR BIOLOGY**
+## MOLECULAR BIOLOGY
 
 Biology consists of many fields and approaches, but when I talk about molecular biology here I mean the basis of life beyond what is visible with the bare eye. I will spare you further explanations on the concrete definition of different subsections and want to focus on the foundations of biology, which was the content of my study. So, when I talk about molecular biology here, I mean "biology on a molecular level".
 
@@ -29,7 +29,7 @@ For real. Living beings are made up of molecules and nothing more, just like eve
 
 In a philosophical magazine I once read about philosophers talking to a scientist about biology and being surprised by the fact, that there is nothing else to life than molecules. And it is true, it is just extremely complicated chemistry, as far as science can tell. No hidden force, no *vis vitae*, no alchemical elixir. That is somewhat disillusioning, but on the other hand it brings us closer to a real understanding of life than we have ever been.
 
-**FIVE CONCEPTS FOR LIFE**
+## FIVE CONCEPTS FOR LIFE
 
 The ancient Greeks already knew that life must be composed of subparts and tried to find them, calling them elements - basic substances. They decided to stick with four: earth, fire, water and air. With this they were wrong, but the idea is right. Life consists of "elements" and for a better understanding it can be broken down to five basic concepts. They make up everything that we call living. Basically everything we find in an organism or a cell can be assigned to one (or more) of these five concepts.
 
@@ -55,7 +55,7 @@ These five can be seen as the core elements of life. This is the secret of life 
 
 With the models developed over the last two centuries we are able to explain life with an astonishing complexity. I will explain them a bit further in the next part
 
-**SOME MORE DETAILS**
+## SOME MORE DETAILS
 
 We have seen, that life can be broken down to five concepts and that everything a cell needs is made out of molecules.
 
