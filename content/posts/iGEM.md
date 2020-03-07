@@ -8,14 +8,14 @@ What is [iGEM](https://igem.org/Main_Page)?
 The ***i**nternational* ***g**enetically* ***e**ngineered* ***m**achine* student research competition 2019.
 I will stick with iGEM, if you don't mind.
 
-## In essentia
+### In essentia
 
 - I was member and later leader of the student research team *iGEM NAWI Graz 2019*.
-- We developed a method for the early detection of American foulbrood, a bee disease, and proved the principle.
+- We developed a method for the early detection of American foulbrood, a bee disease, and proved the principle - the **Beeosensor**
 - We won the awards for best diagnostics project and best human practices and were nominated for finalists, best poster and best presentation among about 80 overgraduate teams we were competing with.
 - And most importantly: we learned *a lot* over the course of the project.
 
-## The beginning
+### The beginning
 
 Science is a fine thing, when you learn about it. First you hear about those cool things in school, later you see them all over the media and then you get a deeper understanding in university. 
 
@@ -25,7 +25,7 @@ I wanted more and so I approached the joint iGEM team from my universities, the 
 
 In 2019, I was not sure if should participate again, but was then convinced by the founders of the 2019 and became one of the first members. I later became team leader, when it became more and more obviuos that the current team leader had to much to do. This was a very new situation for me, as I have never before been the leader of any team and I took it very seriously. Maybe even too seriously, but I had promised my team to "lead them to a good rating and maybe even more", so it was a matter of honor to deliver! And despite all the new and unexpected difficulties I enjoyed it most of the time and and look now back to it as one of the formative experiences of my life.
 
-## My team
+### My team
 
 Some of my colleagues were especially eager to make a team video and so after a long time of planning and shooting scenes, we had this masterpiece.
 
@@ -35,7 +35,7 @@ It was also shown in Boston during the congress, together with other teams' vide
 
 For me personally, leading was probably the most unusual part of the whole project and really a step out of my comfort zone. I cannot write about my final conclusions, as I am still processing and understanding what happend, what I did and what I could have done. This is no short process and reaches deep into ones personality, if one wants to learn and grow.
 
-## Fucking up
+### Fucking up
 
 When I announced that I would be ready to undertake the task of the team leader, we were were still full of naive optimism and envisioned the prototype of the Beeosensor, fully functional, tested and ready until the end of the summer. The sky seemed clear, only a little cloudy, the roadmap was clear - for research and development as well as for the organizational part.
 
@@ -49,7 +49,7 @@ However, not everything was dire. Slowly, our project progressed. We had a stead
 
 Finishing everything for the deadline sometimes seemed like a sheer impossible task, but in the end we did it, not everything according to our plan, but we did it. And iGEM is all about students learning science and making mistakes, in order to avoid them later in their life. If that was the goal, we told ourselves that we had already won everything we could win, but then came the fulminant climax of the project.
 
-## The congress
+### The congress
 
 Our sole hope when we did our presentation in front of a small audience and the poster presentation for the judges was to win the gold medal. Sounds improper? The medals are not actually medals but just some kind of a grading system with bronze, silver and gold. Half of the teams “won” gold and so did we. The awards are the real thing in iGEM. When the winners were presented at the closing ceremony, we already knew we got gold and did not expect much more, as there in this comeptitions you can find names like Harvard and MIT and the like and some other projects really impressed me. So, when the winners and nominees in the different categories were announced, I went through the most unreal 30 minutes of my life.
 
@@ -57,7 +57,7 @@ We were first nominated for the best diagnostics project and we cheered ... and 
 
 ![winners](/iGEM.png)
 
-## Acknowledgements
+### Acknowledgements
 
 I want to thank the people who supported our team and helped us to make all of our achivements possible:
 - Hannes Beims and Wolfgang Schühly, who were the main “intellectual contributors” and provided us with bacteria and phages 
