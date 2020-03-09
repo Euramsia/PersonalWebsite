@@ -1,5 +1,5 @@
 +++
-date = "2020-03.08"
+date = "2020-03-08"
 title = "What is molecular biology?"
 math = "true"
 
