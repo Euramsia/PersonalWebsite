@@ -11,7 +11,7 @@ math = "true"
 | 2020 | Master in Biotechnology at Graz University of Technology |
 |  | **- DIPLOMAS AND CERTIFICATES -** |
 | 2016 | Italian Matura in German, 91/100 |
-| 2020 | IELTS certificate 8.0 - equivalent to C1 |
+| 2020 | IELTS academic certificate 8.0 - equivalent to C1 |
 | 2020 | Bachelor of Science in Molecular Biology |
 |  | **- EXPERIENCES -** |
 | 2014 | Internship at the excercice farm of my high school, summerjob |
