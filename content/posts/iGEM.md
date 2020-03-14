@@ -11,7 +11,7 @@ I will stick with iGEM, if you don't mind.
 ### In essentia
 
 - I was member and later leader of the student research team *iGEM NAWI Graz 2019*.
-- We developed a method for the early detection of American foulbrood, a bee disease, and proved the principle - the **Beeosensor**
+- We developed a method for the early detection of American foulbrood (AFB), a bee disease, and proved the principle - the **Beeosensor**
 - We won the awards for best diagnostics project and best human practices and were nominated for finalists, best poster and best presentation among about 80 overgraduate teams we were competing with.
 - And most importantly: we learned *a lot* over the course of the project.
 
@@ -59,9 +59,17 @@ We were first nominated for the best diagnostics project and we cheered ... and 
 
 ![winners](/iGEM.png)
 
+### Lessons
+
+However, these medals are vapid compared with the things I learned during this intense time.
+
+The most important one being: do what you love. Never before have I felt so deeply and constantly, that you need to do those things you want to do, at least partially. Organizing and leading was tough, I was not used to it, I made many mistakes, but I liked it. The project itself had little to do with me, never before was I really intersted in beekeeping and I am not now. Therefore, it didn't feel fully right to do it. I didn't feel fully comfortable engaging with beekeepers, whos lifeblood this is, and talking about a device we could not deliver during our time and knowing that they would be disappointed (so many of them were so confident that we would deliver the Beeosensor, the solution to the AFB-problem, by the end of 2019 and when we explained some of the difficulties many simply encouraged us). 
+
+This experience has really shaped my look at my future.
+
 ### Acknowledgements
 
-I want to thank the people who supported our team and helped us to make all of our achivements possible:
+Last, I want to thank the people who supported our team and helped us to make all of our achivements possible:
 - Hannes Beims and Wolfgang Schühly, who were the main “intellectual contributors” and provided us with bacteria and phages 
 - Peter Macheroux and Eda Mehmeti, who gave us access to two labs and access to the equipment necessary for our project 
 - Marina Toplak and Julia Messenlehner and the rest of the academic staff, who supported us troughout the project. Without you this Beeosensor have been possible
