@@ -15,6 +15,6 @@ This is me.
 
 **Interests**: molecular biology, systems, psychology, artificial intelligence
 
-My ambition is to change the world, and change it to the better. To my disappointment I had to find out that changing the world is harder than I imagined in my early childhood dreams.
+My ambition is to change the world, and change it to the better. However, I had to find out that changing the world is not as easy as I imagined it in my early childhood dreams.
 
 This, however, is no reason to give up and here I am - on my way.
