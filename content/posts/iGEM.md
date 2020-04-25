@@ -10,7 +10,7 @@ I will stick with iGEM, if you don't mind.
 
 ### In essentia
 
-- I was member and later leader of the student research team *iGEM NAWI Graz 2019*.
+- I was member and later leader of the [student research team](https://www.tugraz.at/en/studying-and-teaching/studying-at-tu-graz/student-teams/student-competition-and-focus-teams/igem-nawi-graz/) *iGEM NAWI Graz 2019*.
 - We developed a method for the early detection of American foulbrood (AFB), a bee disease, and proved the principle - the **Beeosensor**
 - We won the awards for best diagnostics project and best human practices and were nominated for finalists, best poster and best presentation among about 80 overgraduate teams we were competing with.
 - And most importantly: we learned *a lot* over the course of the project.
