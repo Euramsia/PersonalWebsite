@@ -39,7 +39,7 @@ Life needs a **defined space** withing borders because it is a state of complex 
 
 Life needs **building blocks** (molecules of all types), and it needs an incredible variety of them. They are too complex to exist "by default" in our universe, thus they must be created. Doing _anything_ for a cell usually means building specific molecules and using their specific impact on other molecules. The effect of that specific molecule can be anything from being building material over activating other molecules to "reading" information.
 
-Life needs **information** as a blueprint for the molecules that must be built. Those molecules are not created by chance, but rather with a rigorous plan. This information is stored in the DNA and "read" by specific molecules.
+Life needs **information** as a blueprint for the molecules that must be built. Those molecules are not created by chance, but rather with a rigorous plan. This information is stored in the DNA and "read" by specific molecules. 
 
 Life needs **energy**. Who doesn't? Without energy, nothing can be done. Simply maintaining order already needs constant effort, otherwise things tend to become chaotic. Energy is either prduced trough photosynthesis or by "eating" energy-rich molecules like sugar.
 
