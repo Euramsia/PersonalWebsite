@@ -73,3 +73,8 @@ Last, I want to thank the people who supported our team and helped us to make al
 - Hannes Beims and Wolfgang Schühly, who were the main “intellectual contributors” and provided us with bacteria and phages 
 - Peter Macheroux and Eda Mehmeti, who gave us access to two labs and access to the equipment necessary for our project 
 - Marina Toplak and Julia Messenlehner and the rest of the academic staff, who supported us troughout the project. Without you this Beeosensor have been possible
+
+### Media
+
+You can find a short podcast episode by AirCampus [here](https://www.aircampus-graz.at/podcasts/igem-2/).
+And the poster on ResearchGate [here](https://www.researchgate.net/publication/339687349_Beeosensor_2019?channel=doi&linkId=5e5fb0b992851cefa1dc8831&showFulltext=true).
