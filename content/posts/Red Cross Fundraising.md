@@ -6,6 +6,7 @@ math = "true"
 +++
 In the summer of 2020 I was a fundraiser for the Red Cross in Germany, a job unlike any other job. In my first week I woke up every morning with one thought: This job is so strange. In the second week I got used to it and now after the sixth week I feel able to formulate what caused and still causes this feeling. 
 
+But lets start from the beginning.
 
 The Red Cross is an important aid agency in Germany with a variety of services, the main one being emergency medical services. If you have an accident, the organization most likely coming to your aid within minutes is the German Red Cross. Bavaria, the region of Germany which defines the typical "german" stereotypes with Lederhosen etc. is a bit special and therefore has its own subsection, the Bavarian Red Cross (BRK). This service is mainly paid for by the health insurances and state funding, but parts of it rely on donations from the public, mainly the trainig and equipment of volunteers but also better general equipment and associated organizations like the water-guards. 
 
