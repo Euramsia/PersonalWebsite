@@ -14,7 +14,7 @@ The Red Cross is an important aid agency in Germany with a variety of services, 
 
 And this is where I come into play. I was the path, I was the canal through which the donations would flow to the local subsection of the BRK. Money does not flow freely, as everybody can imagine. When was the last time you stopped your lunch and thought "Hey, I should donate to some organization"? People don't just donate, they need a reason. For a few that is an accident, for some it is a begging letter at Chrismas and for more it is a fundraiser knocking on their door. "Hello, Grüß Gott, I'm from the Red Cross. We are here in Hintertupfing for our big support campaign."
 
-Door-to-door fundraising is empirically shown to be the most effective and also most efficient form of convincing people to donate, if it is done professionally by agencys like [KOBER GmbH](https://deinferienjob.com/unternehmen/) with the. Anecdotally, this is demonstrated by the district association where I worked my first 5 weeks: A letter campaign a year prior barely covered its costs while our door-to-door fundraising brought in the tenfold profit and more. "This is the way how the local Red Cross can train and equip the volunteers that keep you safe, day and night!"
+Door-to-door fundraising is empirically shown to be the most effective and also most efficient form of convincing people to donate, if it is done professionally by agencys like [KOBER GmbH](https://deinferienjob.com/unternehmen/) with the right training and expertise. Letter campaigns sometimes barely covered their costs while our door-to-door fundraising brought in the tenfold profit and more. "This is the way how the local Red Cross can train and equip the volunteers that keep you safe, day and night!"
 
 People want to donate. But usually this deep longing to do something good is buried under several layers of doubts, laziness and indeciciveness. Our task as fundraisers is to unveil it and bring the money where it is needed while leaving the citizen with a smile and a good feeling. That is necessay, because they can terminate their support at any time - "We are the red cross, we are known for our voluntary nature, that's why you decide with what amount you want to support us and for how long you want to support us"
 
@@ -30,7 +30,6 @@ This is a part of my team, one girl left after the first week, two more came to 
 ### Tough and strange
 
 Based on my six weeks of experience I will now crystallize what is so special about door-to-door fundraising.
-
 
 **The job is almost 24/7.**
 If you do not dream of it then you are lucky, then it is only 16/7. From the time when you arrive at the accomodation to the time when you leave there is almost no private and social life anymore. Every minute you are not working you spend with your team, either talking about fundraising or training. In the morning you get up at around 8:30, prepare, are brought to the area where you will be for the day, work, arrive at home at 21:30, shower, train, eat, sleep and repeat. More often than not it is past midnight when you finally crawl into your bed. Only Saturday nights and Sundays bring some free time - which is of course spent with the team.
