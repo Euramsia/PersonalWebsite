@@ -48,10 +48,9 @@ The job is 100% comission based and thus performance based, but there is no stre
 Some days are bad, some days are good and it is difficult to grasp what causes the fluctuation. The team leader is an experienced fundraiser and trains the newbies during the first weeks, but still it is not easy to understand what is good and what is bad and how to improve. That can be very frustrating.
 
 
-**It is honorable work with questionable motivs.**
-Barely 10% of the people do this job to help the Red Cross. The good cause gives a comfortable feeling and you can see yourself as the good guy, but really, it is about the comissions. The comissions are the reason why you knock at door after door, while sweating from the heat reflected by the asphalt on the streets, the rain dropping from the hair into the eyes, while being hit by the smell from a stinky flat, sometimes being insulted and sometimes being treated unfriendly for hours. The comissions and the fun you can get from people being nice and people you - subtly! - make fun of during the talk.
+**It is honorable work with questionable motivs.** Barely 10% of the people do this job to help the Red Cross. The good cause gives a comfortable feeling and you can see yourself as the good guy, but really, it is about the comissions. The comissions are the reason why you knock at door after door, while sweating from the heat reflected by the asphalt on the streets, the rain dropping from the hair into the eyes, while being hit by the smell from a stinky flat, sometimes being insulted and sometimes being treated unfriendly for hours. The comissions and the fun you can get from people being nice and people you - subtly! - make fun of during the talk.
 
-## My lessonsdddddddddddddddddddd
+## Lessons learned
 
 - It is all about mindset. Fundraising really helped me to realize that deeply.
 - Everybody has his own style. When it comes about bringing the best performance, everybody needs to find his own way of doing things, otherwise it will only be mediocre.
