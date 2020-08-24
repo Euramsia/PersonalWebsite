@@ -1,6 +1,6 @@
 +++
 date = "2020-08-24"
-title = "Fundraising for the Red Cross"
+title = "Fundraising for the Red Cross (Summer 2020)"
 math = "true"
 
 +++
