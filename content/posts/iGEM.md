@@ -1,6 +1,6 @@
 +++
 date = "2020-02-02"
-title = "Student research competition iGEM (Summer 2019)"
+title = "Student research competition - igem (Summer 2019)"
 +++
 
 I want to tell you the story of my experience team leader of [iGEM NAWI Graz 2019](http://www.igem-graz.at/2019/).
