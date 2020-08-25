@@ -27,9 +27,9 @@ People want to donate. But usually this deep longing to do something good is bur
 
 Fundraising is no teamwork. Everybody is alone during the day, but the team is nevertheless a source of strength and comfort during this time, as they go through the same as you. They are the people you see when you wake up and when you go to sleep, every day, the only constant. Thinking of my team and sharing my stories in the evening has helped me quite a lot during tough hours.
 
-This is a part of my team, one girl left after the first week, two more came to replace her but left as well. Often only half the intial team is the same after five weeks, so we were lucky to have each other until the end. Fundraising is tough.
+~~This is a part of my team, one girl left after the first week, two more came to replace her but left as well. Often only half the intial team is the same after five weeks, so we were lucky to have each other until the end. Fundraising is tough.
 
-![fundraising](/fundraising.jpg)
+![fundraising](/fundraising.jpg)~~
 
 ### Tough and strange
 
@@ -44,14 +44,13 @@ The first reaction usually is no. 10% of the people who donate say yes after the
 
 
 **Only the performance counts, yet there is no stress.**
-The job is 100% comission based and thus performance based, but there is no stress or pressure, no tasks you need to complete. You get your money for a successful transactions which requires a talk and the completion of a form. That takes between 5 and 30 minutes, depending on the citizen. How many of those transactions you have, on how many doors you knock, if you rest for half an hour during the day or 3 hours is completely up to you. It is like piecework, but a very talent-based. A good fundraiser can ear ten times the money of a bad fundraiser. For the Red Cross only the amount of the donations count, if 1000 Euros of donations are brought in by one fundraiser or 5 of them does not make a difference. The comssion is chosen to give average fundraisers a sufficient motive to continue, which means you can earn quite a lot if you are a good fundraiser.
-
+The job is 100% comission based and thus performance based, but there is no stress or pressure, no tasks you need to complete. You get your money for a successful donation which requires a talk and the completion of a form. That takes between 5 and 30 minutes, depending on the citizen. How many of those donations you have, on how many doors you knock, if you rest for half an hour during the day or 3 hours is completely up to you. It is like piecework, but a very talent-based.
 
 **Success seems almost random in the beginning.**
 Some days are bad, some days are good and it is difficult to grasp what causes the fluctuation. The team leader is an experienced fundraiser and trains the newbies during the first weeks, but still it is not easy to understand what is good and what is bad and how to improve. That can be very frustrating.
 
 
-**It is honorable work with banal motivs.** Barely 10% of the people do this job to help the Red Cross. The good cause gives a comfortable feeling and you can see yourself as the good guy, but really, it is about the comissions. The comissions are the reason why you knock at door after door, while sweating from the heat reflected by the asphalt on the streets, the rain dropping from the hair into the eyes, while being hit by the smell from a stinky flat, sometimes being insulted and sometimes being treated unfriendly for hours. The comissions and the fun you can get from people being nice and people you - subtly! - make fun of during the talk.
+**It is honorable work with banal motivs.** The good cause gives a comfortable feeling and you can see yourself as the good guy, but really, it is about the comissions, because that is the only money you will get. The comissions are the reason why you knock at door after door, while sweating from the heat reflected by the asphalt on the streets, the rain dropping from the hair into the eyes, while being hit by the smell from a stinky flat, sometimes being insulted and sometimes being treated unfriendly for hour after hour. The comissions and the joy you can get from people being nice and fun.
 
 ## Lessons learned
 
