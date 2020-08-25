@@ -27,10 +27,6 @@ People want to donate. But usually this deep longing to do something good is bur
 
 Fundraising is no teamwork. Everybody is alone during the day, but the team is nevertheless a source of strength and comfort during this time, as they go through the same as you. They are the people you see when you wake up and when you go to sleep, every day, the only constant. Thinking of my team and sharing my stories in the evening has helped me quite a lot during tough hours.
 
-~~This is a part of my team, one girl left after the first week, two more came to replace her but left as well. Often only half the intial team is the same after five weeks, so we were lucky to have each other until the end. Fundraising is tough.
-
-![fundraising](/fundraising.jpg)~~
-
 ### Tough and strange
 
 Based on my six weeks of experience I will now crystallize what is so special about door-to-door fundraising.
