@@ -6,7 +6,7 @@ math = "true"
 +++
 
 
-![Me](/meinbild.jpg)
+![Me](/meinbild.png)
 
 
 This is me.
