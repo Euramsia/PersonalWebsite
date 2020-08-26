@@ -53,8 +53,14 @@ Some days are bad, some days are good and it is difficult to grasp what causes t
 
 **It is honorable work with banal motivs.** The good cause gives a comfortable feeling and you can see yourself as the good guy, but really, it is about the commissions, because that is the only money you will get. However, in the first five weeks Kober will pay at least 360€ per week regardless of your performance and will cover all costs except food. The commissions are the reason why you knock at door after door, while sweating from the heat reflected by the asphalt and the concrete buildings, when the rain is dropping from the hair into the eyes, while being hit by the smell from a stinky flat, while trying to drown the barking of a dog, after being treated in less-than-nice manner. There is a reason why the Red Cross does not send volunteers to raise their funds.
 
+
+## However
+
+It is the greatest job I've had until now. Really. The parts above may not sound like it, but the merit-based earning, the focus on this and only this job during these weeks, the feeling of having my fate (commissions) in my own hands, the team spirit, the people you meet, the joy of talking to friendly and funny people, being outside all the time, walking in the sunshine, learning so much about yourself and gaining knowledge into human nature - all these things make the job definitely worthwhile for me and I will surely do it again.
+
+
 ## Lessons learned
 
-- It is all about mindset. Fundraising really helped me to realize that deeply.
-- Everybody has his own style. When it comes about bringing the best performance, everybody needs to find his own way of doing things, otherwise it will only be mediocre.
-- Stereotypes can be true, if they are differentiated enough. You will find rich people unwilling to donate even a small amount and rich people who give quite freely. One stereotype for rich people is therefore not enough, but with two you can classify them at least better than random and that's already something. It helps you adapting the conversation quickly to the citizen.
+- **It is all about mindset.** Fundraising really helped me to realize that deeply. Your mindest will influence the willingness of people to donate. I must be convinced that they will donate, whatever the odds are. That is not easy for someone with a very realistic worlview.
+- **Everybody has his own style**. When it comes about bringing the best performance, everybody needs to find his own way of doing things, otherwise it will only be mediocre. This is true everywhere, but here it becomes crystal clear.
+- **Stereotypes can be true, if they are differentiated enough**. You will find rich people unwilling to donate even a small amount and rich people who give quite freely. One stereotype for rich people is therefore not enough, but with at least two you can classify them definitely better than random and that's already something. 
