@@ -12,7 +12,7 @@ But lets start from the beginning.
 
 The Red Cross is an important aid agency in Germany with a variety of services, the main one being emergency medical services. If you have an accident, the organization most likely coming to your aid within minutes is the German Red Cross. Bavaria, the region of Germany which defines the typical "german" stereotypes with Lederhosen etc. is a bit special and therefore has its own subsection, the Bavarian Red Cross (BRK). This service is mainly paid for by the health insurances and state funding, but parts of it rely on donations from the general public, mainly the trainig and equipment of volunteers but also better general equipment and associated organizations like the water-guards.
 
-![redcross](/redcross.jpg)
+![redcross](/redcross.png)
 
 ### Fundraising in a nutshell
 
