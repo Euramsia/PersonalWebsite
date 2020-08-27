@@ -26,9 +26,7 @@ People want to donate. But usually this deep longing to do something good is bur
 
 Fundraising itself is no teamwork. We are not Jehovah's Witnesses who come in double packs. Everybody works on his own during the day, but the team is nevertheless a source of strength and comfort during this time, as they go through the same as you. They are the people you see when you wake up and when you go to sleep, every day, the only constant. Thinking of my team and sharing my stories in the evening has helped me quite a lot during tough hours. Also you can learn a lot from them, their mistakes, their experiences and they reassure you in your struggle.
 
-![fundraising](/fundraising.jpg)
 
-This is a part of my team, one girl left after the first week, two more came to replace her but left as well. Often only half the initial team is the same after five weeks, so we were lucky to have each other until the end. Yes, fundraising is tough.
 
 ### Tough and a little bit strange
 
@@ -56,7 +54,7 @@ Some days are bad, some days are good and it is difficult to grasp what causes t
 
 ## However
 
-It is the greatest job I've had until now. Really. The parts above may not sound like it, but the merit-based earning, the focus on this and only this job during these weeks, the feeling of having my fate (commissions) in my own hands, the team spirit, the people you meet, the joy of talking to friendly and funny people, being outside all the time, walking in the sunshine, learning so much about yourself and gaining knowledge into human nature - all these things make the job definitely worthwhile for me and I will surely do it again.
+**It is the greatest job I've had until now.** Really. The parts above may not sound like it, but the merit-based earning, the focus on this and only this job during these weeks, the feeling of having my fate (commissions) in my own hands, the team spirit, the people you meet, the joy of talking to friendly and funny people, being outside all the time, walking in the sunshine, learning so much about yourself and gaining knowledge of human nature - all these things make the job definitely worthwhile for me and I will surely do it again.
 
 
 ## Lessons learned
