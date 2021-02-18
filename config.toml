@@ -80,7 +80,7 @@ pygmentsUseClasses = true # new add
     name = "Blog"
     weight = 3
     url  = "posts"
-#[[menu.main]]
-#    name = "Startup"
-#    weight = 4
-#    url = "startup"
+[[menu.main]]
+    name = "Publications"
+    weight = 4
+    url = "publications"
