@@ -6,7 +6,8 @@ math = "true"
 
 | Time | - EDUCATION - |
 | :----:  | :-------------: |
-| 2020-now | Master in Biotechnology at Graz University of Technology |
+| 2020 - now| Master in Neuroscience and Cognition at Utrecht University |
+| Spring 2020 | Master in Biotechnology at Graz University of Technology |
 | 2016-2020 | Bachelor in Molecular Biology at Graz University of Technology |
 | 2011-2016 | High school with focus on agriculture (Fachoberschule für Landwirtschaft Auer (South Tyrol))|
 |  | . |
